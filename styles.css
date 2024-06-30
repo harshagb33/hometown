@@ -10,7 +10,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-image: url('/torshov.jpg');
+    background-image: url('torshov.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     padding: 20px;
